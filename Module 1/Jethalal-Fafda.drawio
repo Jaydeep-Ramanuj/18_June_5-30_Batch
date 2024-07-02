@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:53:02.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pN-IupHHlEK6zsrtQqTy" version="24.6.2" type="device">
+  <diagram name="Page-1" id="3chGsKQOJNWkthKtU1oH">
+    <mxGraphModel dx="2240" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-1" target="w0aAlYmxk5Yd87qoczHf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-2" target="w0aAlYmxk5Yd87qoczHf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="180" />
+              <mxPoint x="100" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-6" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0aAlYmxk5Yd87qoczHf-5">
+          <mxGeometry x="-0.9362" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-2" target="w0aAlYmxk5Yd87qoczHf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-2" value="Is&amp;nbsp;&lt;div&gt;Sunday ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-4" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-7" target="w0aAlYmxk5Yd87qoczHf-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0aAlYmxk5Yd87qoczHf-9">
+          <mxGeometry x="-0.6797" y="4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-11" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-7" target="w0aAlYmxk5Yd87qoczHf-10">
+          <mxGeometry x="-0.8722" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-7" value="Ask&amp;nbsp;&lt;div&gt;Bapuji ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-10" target="w0aAlYmxk5Yd87qoczHf-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-10" value="Enjoy Fafda jalebi with family" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-13" target="w0aAlYmxk5Yd87qoczHf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-13" value="Go on Walk" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="540.3333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-15" target="w0aAlYmxk5Yd87qoczHf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-20" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0aAlYmxk5Yd87qoczHf-19">
+          <mxGeometry x="-0.8382" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-15" target="w0aAlYmxk5Yd87qoczHf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-15" value="Ask maheta saheb ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="490" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-18" target="w0aAlYmxk5Yd87qoczHf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-18" value="Enjoy fafda jalebi alone" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-21" target="w0aAlYmxk5Yd87qoczHf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0aAlYmxk5Yd87qoczHf-24">
+          <mxGeometry x="-0.8072" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-21" target="w0aAlYmxk5Yd87qoczHf-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w0aAlYmxk5Yd87qoczHf-27">
+          <mxGeometry x="-0.8627" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-21" value="Ask&amp;nbsp;&lt;div&gt;Anjali ?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w0aAlYmxk5Yd87qoczHf-26" target="w0aAlYmxk5Yd87qoczHf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w0aAlYmxk5Yd87qoczHf-26" value="Both Enjoy Fafda jalebi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

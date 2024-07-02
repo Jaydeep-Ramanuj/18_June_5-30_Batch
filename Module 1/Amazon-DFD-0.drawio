@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" modified="2024-06-25T12:52:43.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hhKKgkxwDN3ImOaeh6Hs" version="24.6.2" type="device">
+  <diagram name="Page-1" id="4nEHFUEpu90TThgn462G">
+    <mxGraphModel dx="2036" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dowh_SlFOtypLFM7-w2x-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Amazon System&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Buyer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-3" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Seller&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;admin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-2" target="dowh_SlFOtypLFM7-w2x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="370" as="sourcePoint" />
+            <mxPoint x="150" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Purchase goods&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-5">
+          <mxGeometry x="-0.1133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-17" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-5">
+          <mxGeometry x="0.0347" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.026;exitY=0.697;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-1" target="dowh_SlFOtypLFM7-w2x-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="500" as="sourcePoint" />
+            <mxPoint x="230" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deliver goods&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-7">
+          <mxGeometry x="0.2725" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.309;exitY=1.045;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.385;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-3" target="dowh_SlFOtypLFM7-w2x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sell product&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-9">
+          <mxGeometry x="-0.095" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.619;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.716;entryY=1.094;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-1" target="dowh_SlFOtypLFM7-w2x-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gives revenue&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-11">
+          <mxGeometry x="-0.2004" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-4" target="dowh_SlFOtypLFM7-w2x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="440" as="sourcePoint" />
+            <mxPoint x="600" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Manage website&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-13">
+          <mxGeometry x="0.0117" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.959;exitY=0.708;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.037;entryY=0.699;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dowh_SlFOtypLFM7-w2x-1" target="dowh_SlFOtypLFM7-w2x-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dowh_SlFOtypLFM7-w2x-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Gives revenue&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;and data&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dowh_SlFOtypLFM7-w2x-15">
+          <mxGeometry x="-0.2098" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
