@@ -1,0 +1,4 @@
+Name: Rajan
+Age: 21
+Is logged in ?: 0
+Is Eligible for Driving Licence: 1

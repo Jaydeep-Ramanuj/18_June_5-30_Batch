@@ -1,0 +1,4 @@
+Name: Jinesh
+Age: 22
+Is logged in ?: 1
+Is Eligible for Driving Licence: 1
