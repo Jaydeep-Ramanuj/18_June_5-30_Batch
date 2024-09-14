@@ -26,7 +26,7 @@ int main()
     // ofstream out_file("data.txt");
     // out_file << "This is new text in data.txt file";
 
-    // writing data in file
+    // appending data in file
 
     ofstream out_file("data.txt", ios::app);
     out_file << "\nThis is latest text in data.txt file using append";
