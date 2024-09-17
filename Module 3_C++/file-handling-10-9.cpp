@@ -8,11 +8,10 @@ int main()
     // reading data from file
 
     // string data;
-    // // ifstream inp_file("data.txt");
-    // ifstream inp_file("data2.txt");
-
-    // // getline(inp_file, data);
-    // // cout << data;
+    // ifstream inp_file("data.txt");
+    // // ifstream inp_file("data2.txt");
+    // getline(inp_file, data);
+    // cout << data;
 
     // for (int i = 0; i < 10; i++)
     // {

@@ -1,2 +1,3 @@
 This is new text in data.txt file
 This is latest text in data.txt file using append
+This is latest text in data.txt file using append
